@@ -1,8 +1,0 @@
-name=input('Enter your name:')
-surname=input('Enter surname:')
-year=input('INPUT year')
-password=input('INPUT YOUR PASSWORD')
-print("Name is  %s."%name)
-print("Surname is %s."%surname)
-print("Year is %s."%year)
-print("Password is %s."%password)
