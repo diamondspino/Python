@@ -1,5 +1,0 @@
-n1=input('Input frist number :')
-n2=input('Input second number:')
-print(n1,'=',n2,':',n1==n2)
-print(n1,"<",n2,":",n1<n2)
-print(n1,">",n2,":",n1>n2)
